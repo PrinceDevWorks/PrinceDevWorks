@@ -1,7 +1,6 @@
 
-### Web & Mobile Engineer
+### 🚀 Full-Stack Web & Mobile Developer | 8+ Years of Experience
 
-🚀 Full-Stack Web & Mobile Developer | 8+ Years of Experience
 Hi there! 👋 I'm a versatile and highly skilled full-stack developer with over 8 years of experience in web and mobile development. I specialize in building high-performance, scalable, and cutting-edge applications using modern technologies.
 
 💻 Frontend: React, Angular, Vue, Next.js, Nuxt.js, Tailwind CSS, SASS, TypeScript
