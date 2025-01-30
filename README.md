@@ -3,14 +3,6 @@
 
 Hi there! 👋 I'm a versatile and highly skilled full-stack developer with over 8 years of experience in web and mobile development. I specialize in building high-performance, scalable, and cutting-edge applications using modern technologies.
 
-💻 Frontend: React, Angular, Vue, Next.js, Nuxt.js, Tailwind CSS, SASS, TypeScript
-📱 Mobile Development: React Native, Flutter
-🖥️ Backend: Node.js, Express, PHP, Laravel, Python (Django, Flask), C#, Blazor, ASP.NET MVC, ASP.NET Core
-📊 Databases: MongoDB, MySQL, PostgreSQL
-🔗 API Development: RESTful APIs, GraphQL
-⚙️ DevOps & Tools: Docker, CI/CD (GitHub Actions, Jenkins, GitLab CI)
-🌐 Web3 & Blockchain: Smart Contracts, DApps
-
 I am passionate about creating innovative solutions, optimizing performance, and solving complex challenges. Constantly exploring new technologies and best practices to build efficient and scalable applications.
 
 📫 Let's Connect!
