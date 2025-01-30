@@ -9,6 +9,7 @@ I am passionate about creating innovative solutions, optimizing performance, and
 
 Check out my repositories and feel free to collaborate!
 Open to exciting projects and new opportunities.
+
 🔥 Let’s build something amazing together!  
 
 ####      ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/React-blue)  ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Database-blue) ![](https://img.shields.io/badge/Tailwind-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/Web3-blue) ![](https://img.shields.io/badge/Blockchain-blue) ![](https://img.shields.io/badge/Ethereum-blue) ![](https://img.shields.io/badge/Solidity-blue)  ![](https://img.shields.io/badge/Aptos-blue) ![](https://img.shields.io/badge/Solana-blue) ![](https://img.shields.io/badge/Tezos-blue) ![](https://img.shields.io/badge/Web3-blue) ![](https://img.shields.io/badge/Smart%Contract-blue)
