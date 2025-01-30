@@ -1,7 +1,24 @@
 
-### Web & Mobile & Blockchain Engineer
+### Web & Mobile Engineer
 
-Hi, I am a Full Stack Blockchain Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, TypeScript, Python, SmartPy, Solidity, Move, Rust, Vue, Nuxt, Qusasar, React JS, React-Native, Next,  Node, MongoDB and EVM, Tezos, Aptos, Solana, etc. I've started my freelancing career in 2016 and succeeding it until now. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.   
+🚀 Full-Stack Web & Mobile Developer | 8+ Years of Experience
+Hi there! 👋 I'm a versatile and highly skilled full-stack developer with over 8 years of experience in web and mobile development. I specialize in building high-performance, scalable, and cutting-edge applications using modern technologies.
+
+💻 Frontend: React, Angular, Vue, Next.js, Nuxt.js, Tailwind CSS, SASS, TypeScript
+📱 Mobile Development: React Native, Flutter
+🖥️ Backend: Node.js, Express, PHP, Laravel, Python (Django, Flask), C#, Blazor, ASP.NET MVC, ASP.NET Core
+📊 Databases: MongoDB, MySQL, PostgreSQL
+🔗 API Development: RESTful APIs, GraphQL
+⚙️ DevOps & Tools: Docker, CI/CD (GitHub Actions, Jenkins, GitLab CI)
+🌐 Web3 & Blockchain: Smart Contracts, DApps
+
+I am passionate about creating innovative solutions, optimizing performance, and solving complex challenges. Constantly exploring new technologies and best practices to build efficient and scalable applications.
+
+📫 Let's Connect!
+
+Check out my repositories and feel free to collaborate!
+Open to exciting projects and new opportunities.
+🔥 Let’s build something amazing together!  
 
 ####      ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/React-blue)  ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Database-blue) ![](https://img.shields.io/badge/Tailwind-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/Web3-blue) ![](https://img.shields.io/badge/Blockchain-blue) ![](https://img.shields.io/badge/Ethereum-blue) ![](https://img.shields.io/badge/Solidity-blue)  ![](https://img.shields.io/badge/Aptos-blue) ![](https://img.shields.io/badge/Solana-blue) ![](https://img.shields.io/badge/Tezos-blue) ![](https://img.shields.io/badge/Web3-blue) ![](https://img.shields.io/badge/Smart%Contract-blue)
 <h1 align="center"></h1>
