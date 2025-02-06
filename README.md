@@ -1,7 +1,7 @@
 
-### 🚀 Full-Stack Web & Mobile Engineer | 8+ Years of Experience
+### 🚀 Full-Stack Engineer | 8+ Years of Experience
 
-Hi there! 👋 I'm a versatile and highly skilled full-stack developer with over 8 years of experience in web and mobile development. I specialize in building high-performance, scalable, and cutting-edge applications using modern technologies.
+Hi there! 👋 I'm a versatile and highly skilled full-stack developer with over 8 years of experience in web development. I specialize in building high-performance, scalable, and cutting-edge applications using modern technologies.
 
 I am passionate about creating innovative solutions, optimizing performance, and solving complex challenges. Constantly exploring new technologies and best practices to build efficient and scalable applications.
 
